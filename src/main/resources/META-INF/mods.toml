@@ -1,0 +1,23 @@
+[[mods]]
+modId = "levellmod"
+version = "${file.jarVersion}"
+displayName = "LevelL Mod"
+credits = "Created by agatsumazenitsu51000"
+authors = "agatsumazenitsu51000"
+description = '''
+A mod that adds an RPG UI with player levels and stats.
+'''
+
+[[dependencies.levellmod]]
+modId = "forge"
+mandatory = true
+versionRange = "[40,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.levellmod]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"

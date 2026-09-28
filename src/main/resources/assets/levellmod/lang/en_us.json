@@ -1,0 +1,15 @@
+{
+    "gui.levellmod.rpg.title": "RPG UI",
+    "gui.levellmod.rpg.level": "Level: ",
+    "gui.levellmod.rpg.exp": "Exp: ",
+    "gui.levellmod.rpg.stat_points": "Stat Points: ",
+    "gui.levellmod.rpg.health": "Health: ",
+    "gui.levellmod.rpg.strength": "Strength: ",
+    "gui.levellmod.rpg.agility": "Agility: ",
+    "gui.levellmod.rpg.luck": "Luck: ",
+    "gui.levellmod.rpg.increase_health": "Increase Health",
+    "gui.levellmod.rpg.increase_strength": "Increase Strength",
+    "gui.levellmod.rpg.increase_agility": "Increase Agility",
+    "gui.levellmod.rpg.increase_luck": "Increase Luck",
+    "message.levellmod.requirements_not_met": "You do not meet the requirements to use this item."
+}
